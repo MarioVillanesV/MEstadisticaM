@@ -1,0 +1,5 @@
+Informacion sobre mi proyecto de tesis
+Seminario de Tesis I
+Seminario de Tesis II
+Seminario de Tesis III
+Se detalla documentacion y archivos de configuracion en R
